@@ -1,5 +1,5 @@
 # Hello, I'm CHAOUKI OUSSAMA
-<a href="[https://linkedin.com](https://www.linkedin.com/in/oussama-chaouki/)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/oussama-chaouki/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
 A dedicated data science student adept at statistical analysis, machine learning, and data visualization. Skilled in Python, R, and diverse data manipulation tools, I'm passionate about translating complex data into
