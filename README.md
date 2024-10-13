@@ -1,6 +1,6 @@
 # Hello, I'm CHAOUKI OUSSAMA
 <a href="https://www.linkedin.com/in/oussama-chaouki/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/-Portfolio-000000?&style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.oussamachaouki.tech/"><img src="https://img.shields.io/badge/-Portfolio-000000?&style=for-the-badge&logo=github&logoColor=white" /></a>
 
 A dedicated data science student with expertise in statistical analysis, machine learning, and data visualization. Proficient in Python, R, and various data manipulation tools, I am passionate about translating complex datasets into impactful insights. I am eager to contribute my expertise and learn in dynamic, data-driven environments.
 
