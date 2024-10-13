@@ -28,11 +28,11 @@ My journey in computer science has led me to develop a passion for Data Science,
 
 ### 3. Chatbot pour le tourisme marocain
 - **Description**: Developed a chatbot for the Moroccan tourism sector to assist users in finding information about destinations, activities, and accommodations.
-- **Technologies**: Python, NLP, Dialogflow
+- **Technologies**: Python, LAMA
 - **Repository**: [GitHub Link](https://github.com/yourusername/chatbot-tourisme-marocain)
 
 ### 4. Football Analysis System
 - **Description**: Designed a computer vision system to analyze football matches, including player movements and game statistics.
-- **Technologies**: Python, OpenCV, Pandas
+- **Technologies**: YOLO, OpenCV, Python
 - **Repository**: [GitHub Link](https://github.com/yourusername/football-analysis-system)
 
