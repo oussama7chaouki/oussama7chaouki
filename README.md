@@ -19,20 +19,20 @@ My journey in computer science has led me to develop a passion for Data Science,
 ### 1. Employee Promotion Prediction
 - **Description**: Developed a classification model to predict employee promotions using various algorithms, including Random Forest and XGBoost. Employed techniques like SMOTE for class balancing and TPOT for automated model optimization.
 - **Technologies**: Python, Scikit-learn, TPOT, SMOTE
-- **Repository**: [GitHub Link](https://github.com/yourusername/employee-promotion-prediction)
+- **Repository**: [GitHub Link](https://github.com/oussama7chaouki/EMPLOYEE-PROMOTION-PREDECTION)
 
 ### 2. Automobile Damage Image Classification
 - **Description**: Created a deep learning model for classifying automobile damage images, implementing CNN architectures to improve accuracy.
 - **Technologies**: Python, TensorFlow, Keras
-- **Repository**: [GitHub Link](https://github.com/yourusername/automobile-damage-classification)
+- **Repository**: [GitHub Link](https://github.com/oussama7chaouki/automobile-damage-classification)
 
 ### 3. Chatbot pour le tourisme marocain
 - **Description**: Developed a chatbot for the Moroccan tourism sector to assist users in finding information about destinations, activities, and accommodations.
 - **Technologies**: Python, LAMA
-- **Repository**: [GitHub Link](https://github.com/yourusername/chatbot-tourisme-marocain)
+- **Repository**: [GitHub Link](https://github.com/oussama7chaouki/chatbot-tourisme-marocain)
 
 ### 4. Football Analysis System
 - **Description**: Designed a computer vision system to analyze football matches, including player movements and game statistics.
 - **Technologies**: YOLO, OpenCV, Python
-- **Repository**: [GitHub Link](https://github.com/yourusername/football-analysis-system)
+- **Repository**: [GitHub Link](https://github.com/oussama7chaouki/football-analysis-system)
 
